@@ -29,9 +29,9 @@ const Hero = () => {
                   <div className="flex justify-center lg:p-8">
                       {/* <img src={} /> */}
                       <motion.img
-                          src="images/pink-white.png"
+                          src="images/infinity.jpeg"
                           alt="Dev Felix"
-                          className="border  border-stone-900 rounded-3xl"
+                          className="border  border-stone-900 rounded-full"
                           width={650}
                           height={650}
                           initial={{ x: 100, opacity: 0 }}
